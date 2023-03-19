@@ -107,12 +107,3 @@
 	<a href="https://www.youtube.com/channel/DEVILADAMGAMING"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
-
-
-
-
-
-
-
-
-
