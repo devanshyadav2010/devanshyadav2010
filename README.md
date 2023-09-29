@@ -72,11 +72,9 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Devansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -86,16 +84,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/devanshyadav2010"><img alt="Devansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devanshyadav2010&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
