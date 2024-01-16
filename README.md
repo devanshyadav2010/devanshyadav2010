@@ -1,97 +1,78 @@
-<h1 align="center">Hi , I'm Devansh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hi there, I'm Devansh Yadav!</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-6f42c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-3498db?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Enthusiast-DS%20|%20AI%20|%20ML-2ecc71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Design-Graphic%20Designer-f39c12?style=for-the-badge">
 </p>
-<hr/>
-<h4 align="center">I'm a web developer and im currently learning programming languages like javascript, python, c++ etc.</h4>
+
+<p align="center">🚀 I'm passionate about crafting digital experiences and exploring the realms of technology. Let's create something amazing together!</p>
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=0e75b6&style=plastic" alt="Devansh" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=algolia" alt="Devansh"  /></p>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
-
-<br/>
-
-## 📊 Github Stats
-
-<b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Devansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshyadav2010&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-
-<br/>
-
-## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://treobot.tk/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:dev8adam576@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/devanshyadav2010"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.youtube.com/channel/DEVILADAMGAMING"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+  <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=3498db&style=plastic" alt="Devansh" />
+</p>
+
+## 🔥 Current Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=highcontrast" alt="Devansh" />
+</p>
+
+## 🚀 Tech Stack
+
+### Languages
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge">
+</p>
+
+### Frontend Development
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black&style=for-the-badge">
+</p>
+
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge">
+</p>
+
+### Databases & Cloud Hosting
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge">
+</p>
+
+### Designing
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00c4cc?logo=Canva&logoColor=white&style=for-the-badge">
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-f05033?logo=git&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-fe7a16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=radical" alt="Devansh's GitHub Stats" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://treobot.tk/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="mailto:dev8adam576@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/devanshyadav2010" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.youtube.com/channel/DEVILADAMGAMING" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
