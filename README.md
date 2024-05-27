@@ -15,58 +15,33 @@
   <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=3498db&style=plastic" alt="Devansh" />
 </p>
 
-## 🔥 Current Streak
+## 🚀 Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=highcontrast" alt="Devansh" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-## 🚀 Tech Stack
+## 📊 GitHub Stats
 
-### Languages
-<p align="center"> 
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge">
-</p>
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshyadav2010&layout=compact&theme=radical)
 
-### Frontend Development
-<p align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black&style=for-the-badge">
-</p>
+## 🏆 GitHub Trophies
 
-### Backend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=devanshyadav2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Databases & Cloud Hosting
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge">
-</p>
+## 🗂️ Highlighted Projects
 
-### Designing
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00c4cc?logo=Canva&logoColor=white&style=for-the-badge">
-</p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=Top.gg-Bot&theme=radical)]([https://github.com/devanshyadav2010/Top.gg-Bot])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
 
-### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-f05033?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-fe7a16?logo=stack-overflow&logoColor=white&style=for-the-badge">
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=radical" alt="Devansh's GitHub Stats" />
-</p>
+### GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=radical)
 
 ## 📫 Let's Connect
 
