@@ -37,6 +37,7 @@
 ## 🗂️ Highlighted Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=Top.gg-Bot&theme=radical)]([https://github.com/devanshyadav2010/Top.gg-Bot])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=GreetHub&theme=radical)](https://github.com/devanshyadav2010/GreetHub)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
 
 ### GitHub Streak Stats
