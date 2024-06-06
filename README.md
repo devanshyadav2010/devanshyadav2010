@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Devansh Yadav!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Devansh+Yadav;Computer+Science+Student;DS+%7C+AI+%7C+ML;Learning+DSA;Web+Developer;Discord+Bot+Maker)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Devansh+Yadav;Computer+Science+Student;DS+%7C+AI+%7C+ML;Learning+DSA;Web+Developer;Discord+Bot+Maker)
 
 <p align="center">🚀 I'm passionate about crafting digital experiences and exploring the realms of technology. Let's create something amazing together!</p>
 
